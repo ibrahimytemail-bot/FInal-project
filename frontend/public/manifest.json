@@ -1,0 +1,25 @@
+{
+  "short_name": "Virtual Store",
+  "name": "Virtual Store - Premium Electronics",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/RtWJ8mY/58e9f5b3-12c3-42d3-9db1-67a9ee46b7de-jpgfafs-removebg-preview.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/RtWJ8mY/58e9f5b3-12c3-42d3-9db1-67a9ee46b7de-jpgfafs-removebg-preview.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/RtWJ8mY/58e9f5b3-12c3-42d3-9db1-67a9ee46b7de-jpgfafs-removebg-preview.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#003566",
+  "background_color": "#ffffff"
+}
